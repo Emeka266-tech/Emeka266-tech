@@ -1,7 +1,6 @@
-## Hi there 👋
+<h2>Hi i'm Ferdinand a cybersecurity professional</h2>
 
-<!--
-**Emeka266-tech/Emeka266-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>My cybesecurity project</h2>
 
 Here are some ideas to get you started:
 
